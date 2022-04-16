@@ -1,4 +1,4 @@
-1.step on you hagve to download vscode.
+1.step on you have to download vscode.
 
 2.you have to make a file and name it anything. 
 
